@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Streamlit secrets
+.streamlit/
+
+# Model files (should not be in git)
+*.joblib
